@@ -1,6 +1,4 @@
-# Software-Installation-Request-Automation
-
-# 💻 Software Installation Request Management using ServiceNow
+# 💻 Software-Installation-Request-Automation 
 
 A ServiceNow-based workflow automation project that streamlines the software installation request process within an organization. The application enables employees to request software through the Service Catalog, routes requests for managerial approval, automatically creates IT fulfillment tasks, and notifies users throughout the request lifecycle.
 
@@ -104,7 +102,7 @@ Request Closed
 
 ## 🎥 Project Demonstration
 
-**Demo Video:**
+**Demo Video:** https://github.com/Lohithsharma/Software-Installation-Request-Automation/blob/main/7.%20Project%20Demonstration/Screen%20Recording%202026-06-29%20165014.mp4
 
 ---
 
